@@ -223,8 +223,8 @@ function create_config( )
     "invite",
     "all",
     "feedback",
-   "tagall"
- },
+    "tagall"
+   },
     sudo_users = {156539679},--Sudo users
     disabled_channels = {},
     realm = {99975000},--Realms Id
