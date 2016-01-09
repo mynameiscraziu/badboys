@@ -224,6 +224,7 @@ function create_config( )
     "all",
     "feedback",
     "tagall"
+    }
    },
     sudo_users = {156539679},--Sudo users
     disabled_channels = {},
